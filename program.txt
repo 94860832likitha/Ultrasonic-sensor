@@ -1,4 +1,4 @@
-
+//c++
 int TRIGGER_PIN =26;
 int ECHO_PIN = 25;
 const float SPEED_OF_SOUND = 343.0;
